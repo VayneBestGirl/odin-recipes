@@ -24,3 +24,16 @@ button {
     background-color: orange;
     font-size: 18px;
 }
+
+.mainpage {
+    background-color: brown; 
+}
+
+.description {
+    color: blue;
+    background-color: wheat;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    
+}
