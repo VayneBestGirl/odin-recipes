@@ -20,6 +20,7 @@ div {
 }
 
 button {
+    /* button test */
     color: black;
     background-color: orange;
     font-size: 18px;
@@ -36,4 +37,11 @@ button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 36px;
     
+}
+
+.ingredients,    
+.video {
+    /* group selector test */
+    color: white;
+    background-color: black;
 }
