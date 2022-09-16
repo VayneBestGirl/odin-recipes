@@ -45,3 +45,10 @@ button {
     color: white;
     background-color: black;
 }
+
+.ancestor .child {
+    /* descendant combinator test */
+    color: red;
+    background-color: yellow;
+}
+   
